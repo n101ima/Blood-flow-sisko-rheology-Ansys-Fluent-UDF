@@ -1,5 +1,5 @@
 # Blood-flow-sisko-rheology-Ansys-Fluent-UDF
-This UDF defines a function that calculates the viscosity of blood at a given cell and thread in Fluent. The UDF is related to the solar collectors, which are devices that capture and convert solar energy into heat or electricity. The UDF uses the following parameters and variables:
+This UDF defines a function that calculates the viscosity of blood at a given cell and thread in Fluent. The UDF uses the following parameters and variables:
 
 •  sisko_viscosity: the name of the user-defined function that takes two arguments: c and t.
 
